@@ -2,7 +2,8 @@
 *
 {
     font-family: 'Roboto', Arial, sans-serif
-}   
+}
+
 body
 {
     display: flex;
@@ -16,12 +17,20 @@ ul, ol, li, a
     text-decoration: none;
 }
 
+.top
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+    padding: 0px 256px 128px;
+}
+
 .header
 {
-    background-color: #1F2937;
     display: flex;
-    justify-content: space-around;
+    padding-bottom: 100px;
     align-items: center;
+    justify-content: space-between;
 }
 
 .header h2
@@ -45,7 +54,14 @@ ul, ol, li, a
 
 .section1
 {
-    background-color: #1F2937;
+    display: flex;
+    gap: 128px;
+}
+
+.section1 .left
+{
+    display: flex;
+    flex-direction: column;
 }
 
 .section1 h1
@@ -65,8 +81,11 @@ ul, ol, li, a
 {
     background-color: #3882f6;
     color: white;
-    height: 32px;
-    width: 100px;
+    height: 36px;
+    width: 128px;
     border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
 }
 
