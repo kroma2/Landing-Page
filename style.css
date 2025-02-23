@@ -30,6 +30,12 @@ ul, ol, li, a
     color: #F9FAF8;
 }
 
+.header ul
+{
+    display: flex;
+    gap: 24px;
+}
+
 .header a
 {
     display: flex;
