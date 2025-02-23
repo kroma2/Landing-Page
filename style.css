@@ -9,6 +9,7 @@ body
     flex-direction: column;
     margin: 0px;
 }
+
 ul, ol, li, a
 {
     list-style: none;
@@ -19,6 +20,8 @@ ul, ol, li, a
 {
     background-color: #1F2937;
     display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .header h1
@@ -29,6 +32,7 @@ ul, ol, li, a
 
 .header a
 {
+    display: flex;
     font-size: 18px;
     color: #E5E7EB;
 }
