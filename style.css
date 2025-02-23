@@ -3,3 +3,27 @@
 {
     font-family: 'Roboto', Arial, sans-serif
 }
+
+ul, ol, li, a
+{
+    list-style: none;
+    text-decoration: none;
+}
+
+.header
+{
+    background-color: #1F2937;
+    display: flex;
+}
+
+.header h1
+{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header a
+{
+    font-size: 18px;
+    color: #E5E7EB;
+}
