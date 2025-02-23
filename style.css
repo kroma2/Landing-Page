@@ -2,7 +2,7 @@
 *
 {
     font-family: 'Roboto', Arial, sans-serif
-}
+}   
 body
 {
     display: flex;
@@ -42,3 +42,31 @@ ul, ol, li, a
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.section1
+{
+    background-color: #1F2937;
+}
+
+.section1 h1
+{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    margin: 0px;
+}
+.section1 p
+{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.section1 button
+{
+    background-color: #3882f6;
+    color: white;
+    height: 32px;
+    width: 100px;
+    border: none;
+}
+
