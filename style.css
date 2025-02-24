@@ -89,3 +89,9 @@ ul, ol, li, a
     font-weight: bold;
 }
 
+.box img
+{
+    border: solid blue;
+    border-radius: 10px;
+}
+
