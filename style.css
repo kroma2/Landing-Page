@@ -105,6 +105,8 @@ ul, ol, li, a
 {
     display: flex;
     flex-direction: column;
+    width: 50vw;
+    margin: auto;
 }
 
 .boxes
