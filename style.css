@@ -107,9 +107,21 @@ ul, ol, li, a
     flex-direction: column;
     width: 50vw;
     margin: auto;
+    align-items: center;
 }
 
 .boxes
 {
     display: flex;
+    gap: 32px;
+}
+
+.box
+{
+    display: flex;
+    flex-direction: column;
+}
+.box p
+{
+    text-align: center;
 }
