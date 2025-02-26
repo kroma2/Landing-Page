@@ -128,3 +128,17 @@ ul, ol, li, a
 {
     text-align: center;
 }
+
+.section3
+{
+    background-color: #e5e7eb;
+    padding: 0 25vw 0;
+   
+}
+
+.section3 .quote
+{
+    font-size: 36px;
+    font-weight: light italic;
+    color: #1F2937
+}
