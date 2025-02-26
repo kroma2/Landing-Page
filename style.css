@@ -100,6 +100,9 @@ ul, ol, li, a
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
 }
 .section2
 {
