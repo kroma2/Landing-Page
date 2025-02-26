@@ -123,6 +123,7 @@ ul, ol, li, a
 {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 .box p
 {
