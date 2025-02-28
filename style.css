@@ -172,3 +172,18 @@ ul, ol, li, a
 {
     margin: 0;
 }
+
+.signup button
+{
+    width: 100px;
+    height: 30px;
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+
+.signup button:hover
+{
+background-color: rgba(211, 211, 211, 0.25)
+} 
