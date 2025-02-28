@@ -181,9 +181,10 @@ ul, ol, li, a
     color: white;
     border-radius: 5px;
     border: 2px solid white;
+    cursor: pointer;
 }
 
 .signup button:hover
 {
-background-color: rgba(211, 211, 211, 0.25)
+    background-color: rgba(211, 211, 211, 0.25)
 } 
