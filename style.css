@@ -158,3 +158,9 @@ ul, ol, li, a
 {
     padding: 75px 150px 75px;
 }
+
+.call
+{
+    background-color: #3882f6;
+    color: white;
+}
