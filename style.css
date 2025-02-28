@@ -165,4 +165,10 @@ ul, ol, li, a
     color: white;
     padding: 35px 150px 35px;
     border-radius: 10px;
+    display: flex;
+}
+ 
+.calltext p, .calltext h2
+{
+    margin: 0;
 }
